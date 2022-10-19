@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "German Shephard",
+      "price": 10.99,
+      "imgUrl": "https://images.unsplash.com/photo-1621951714491-3cde56a9cadf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=327&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Bulldog",
+      "price": 1199,
+      "imgUrl": "https://images.unsplash.com/photo-1611611158876-41699b77a059?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Labrador",
+      "price": 1.05,
+      "imgUrl": "https://images.unsplash.com/photo-1558788353-f76d92427f16?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=438&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Siberian Husky",
+      "price": 14000,
+      "imgUrl": "https://images.unsplash.com/photo-1563889362352-b0492c224f62?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    }
+  ]
